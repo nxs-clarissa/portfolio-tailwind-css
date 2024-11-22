@@ -67,7 +67,7 @@ const HamburgerButton: React.FC<HamburgerButtonProps> = ({ onMenuToggle }) => {
       >
         <ul className="block lg:flex">
           <List navbar="Home" href="#home" />
-          <List navbar="About Me" href="#about" />
+          <List navbar="About" href="#about" />
           <List navbar="Portfolio" href="#portfolio" />
           <List navbar="Clients" href="#clients" />
           <List navbar="Blog" href="#blog" />
